@@ -4,9 +4,6 @@
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-24-31" src="https://github.com/user-attachments/assets/34bbb1ed-66c1-46ef-8d90-77978722eaf7" />
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-25-58" src="https://github.com/user-attachments/assets/6b1f826f-d316-4531-ad21-bf157ac43e76" />
 
-
-<img width="704" height="884" alt="Captura desde 2025-09-26 08-58-45" src="https://github.com/user-attachments/assets/46477bf7-7b7f-4b78-8a46-627827ed1b4b" />
-
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-07-46" src="https://github.com/user-attachments/assets/0d8c3688-4067-4367-a6dc-43ca68afce21" />
 
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-13-24" src="https://github.com/user-attachments/assets/2ba50aad-b6b8-47a1-bb82-01896a869509" />
