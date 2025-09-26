@@ -15,6 +15,7 @@
 
 
 
+<img width="1907" height="995" alt="Captura desde 2025-09-26 09-29-46" src="https://github.com/user-attachments/assets/f1cb6d8e-78b4-48be-ab0b-8b9fbf83328e" />
 
 
 
