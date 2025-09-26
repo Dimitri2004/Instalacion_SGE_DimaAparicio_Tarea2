@@ -8,6 +8,7 @@
 <img width="1445" height="896" alt="Captura desde 2025-09-25 14-37-10" src="https://github.com/user-attachments/assets/1b05e600-c542-4b1f-83dc-0d39563683ca" />
 <img width="1445" height="896" alt="Captura desde 2025-09-25 14-37-47" src="https://github.com/user-attachments/assets/51615190-9b0f-4279-9235-5b2b85173e24" />
 <img width="1738" height="990" alt="Captura desde 2025-09-25 14-46-44" src="https://github.com/user-attachments/assets/57f9c160-5da4-42ac-9a6c-2fd3e9986be1" />
+<img width="1907" height="995" alt="Captura desde 2025-09-26 09-24-31" src="https://github.com/user-attachments/assets/34bbb1ed-66c1-46ef-8d90-77978722eaf7" />
 
 <img width="704" height="884" alt="Captura desde 2025-09-26 08-58-45" src="https://github.com/user-attachments/assets/46477bf7-7b7f-4b78-8a46-627827ed1b4b" />
 
