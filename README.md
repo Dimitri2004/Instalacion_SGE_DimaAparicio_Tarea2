@@ -6,7 +6,7 @@ Segunda comprobando que me funciona el host del wordpress despues de hacer ssh e
 la misma.
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-25-58" src="https://github.com/user-attachments/assets/6b1f826f-d316-4531-ad21-bf157ac43e76" />
 En la tercera realice cambios en la base de datos en mysql con un comado llamadosudo -u root para su modificacion
-<img width="1907" height="995" alt="Captura desde 2025-09-26 09-07-46" src="https://github.com/user-attachments/assets/0d8c3688-4067-4367-a6dc-43ca68afce21" />
+<img width="1917" height="1009" alt="image" src="https://github.com/user-attachments/assets/1d02152a-f1c0-4cd6-8838-3fa3082b44e1" />
 En la cuarta compruebo funcionamiento, ya que gracias a los comandos a2ensite rewrite, 000-default permiti reescribir el url y habilitar la pagina con wordpres y desabilitar el predeterminado 'funciona' del sitio
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-13-24" src="https://github.com/user-attachments/assets/2ba50aad-b6b8-47a1-bb82-01896a869509" />
 En la quinta entro en worpress con la ip de mi servidor
