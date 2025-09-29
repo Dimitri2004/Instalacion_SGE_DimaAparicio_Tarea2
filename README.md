@@ -5,7 +5,7 @@ Primera imagen al teminar la instalacion en la maquina virtual y terminando las 
 Segunda comprobando que me funciona el host del wordpress despues de hacer ssh en mi terminal para comparar ip de maquina y equipo y realizar los comandos en la terminal de equipo y permitiendo el copia y pega en
 la misma.
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-25-58" src="https://github.com/user-attachments/assets/6b1f826f-d316-4531-ad21-bf157ac43e76" />
-En la tercera asigno mi maquina virtual de ubunto server a mi terminal del equipo para poder copiar y pegar las caracteristicas especiales, las cuales realice en mysql con un comado llamadosudo -u root para modificar la base de datos
+En la tercera realice cambios en la base de datos en mysql con un comado llamadosudo -u root para su modificacion
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-07-46" src="https://github.com/user-attachments/assets/0d8c3688-4067-4367-a6dc-43ca68afce21" />
 En la cuarta compruebo funcionamiento, ya que gracias a los comandos a2ensite rewrite, 000-default permiti reescribir el url y habilitar la pagina con wordpres y desabilitar el predeterminado 'funciona' del sitio
 <img width="1907" height="995" alt="Captura desde 2025-09-26 09-13-24" src="https://github.com/user-attachments/assets/2ba50aad-b6b8-47a1-bb82-01896a869509" />
